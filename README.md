@@ -6,7 +6,6 @@ This is the client-side application for the MERN Assignment Workflow Portal, bui
 ## Technologies Used
 * React.js & Vite
 * Context API (for state management)
-* [TailwindCSS or Material UI - *Insert your styling library*]
 
 ## Setup Instructions
 
